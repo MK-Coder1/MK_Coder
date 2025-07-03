@@ -1,5 +1,5 @@
 # -MK_Coder
- - यह MK_CODER चैनल आपका स्वागत करता है! Welcome to MK_Coder – Where Web Development Meets Innovation! 💻🚀
+ Welcome to MK_Coder – Where Web Development Meets Innovation! 💻🚀
 Are you ready to level up your web development skills and embark on a transformative journey in the ever-evolving world of code, design, and digital craftsmanship? At MK_Coder, we don't just teach web development — we breathe life into it. Whether you're a curious beginner stepping into the realm of HTML and CSS or a seasoned coder aiming to refine your JavaScript game, MK_Coder is your ultimate destination for growth, guidance, and greatness.
 
 Let us walk you through a universe where creativity meets logic, where lines of code shape dreams, and where your digital future takes form — one project, one tutorial, one breakthrough at a time.
